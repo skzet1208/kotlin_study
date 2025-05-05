@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">Business Card App</string>
+    <string name="tel">+11 (123) 4444 5555</string>
+    <string name="github">github.com/skzet1208</string>
+    <string name="mail">sample@sample.com</string>
+</resources>
